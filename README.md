@@ -1,5 +1,13 @@
 # TinDog Project
 
+
+A Tinder-style app for dogs 🐶  
+Built using HTML, CSS, and Bootstrap.  
+JavaScript coming soon as I learn it!
+
+
+
+
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
